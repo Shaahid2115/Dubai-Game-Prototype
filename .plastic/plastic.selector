@@ -1,0 +1,4 @@
+repository "Dubai Game Prototype@shaahid334@cloud"
+  path "/"
+    br "/main"
+    co "/main"
