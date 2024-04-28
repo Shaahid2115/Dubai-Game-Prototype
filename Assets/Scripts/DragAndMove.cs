@@ -4,36 +4,29 @@ using UnityEngine;
 
 public class DragAndMove : MonoBehaviour
 {
-    private Vector3 offset; // Offset between touch position and object position
+    private bool isDragging = false;
+    private Vector3 offset;
 
     void OnMouseDown()
     {
-        // Calculate offset between touch position and object position
-        offset = gameObject.transform.position - GetTouchPosition();
+        // Calculate the offset between the player's position and the mouse position
+        offset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        isDragging = true;
     }
 
     void OnMouseDrag()
     {
-        // Update object position based on touch position with offset
-        Vector3 newPosition = GetTouchPosition() + offset;
-        // Clamp the newPosition within the screen bounds
-        newPosition.x = Mathf.Clamp(newPosition.x, 0f, Screen.width);
-        newPosition.y = Mathf.Clamp(newPosition.y, 0f, Screen.height);
-        // Convert the newPosition from screen coordinates to world coordinates
-        newPosition = Camera.main.ScreenToWorldPoint(newPosition);
-        // Update object position
-        transform.position = newPosition;
+        if (isDragging)
+        {
+            // Convert mouse position to world position and add the offset
+            Vector3 newPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) + offset;
+            // Set the player's position to the new position
+            transform.position = new Vector3(newPosition.x, newPosition.y, transform.position.z);
+        }
     }
 
-    Vector3 GetTouchPosition()
+    void OnMouseUp()
     {
-        // Get touch position for both mouse and touch input
-        Vector3 touchPosition = Input.mousePosition;
-        // For touch input
-        if (Input.touchCount > 0)
-        {
-            touchPosition = Input.GetTouch(0).position;
-        }
-        return touchPosition;
+        isDragging = false;
     }
 }
