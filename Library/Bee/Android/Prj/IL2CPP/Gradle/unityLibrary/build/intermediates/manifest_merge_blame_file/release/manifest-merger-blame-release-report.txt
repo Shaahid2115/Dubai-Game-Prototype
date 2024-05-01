@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+12-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+13    <uses-feature
+13-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+15        android:required="false" />
+15-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+16    <uses-feature
+16-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-87
+17        android:name="android.software.home_screen"
+17-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+18        android:required="true" />
+18-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-84
+19    <uses-feature
+19-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-88
+20        android:name="android.hardware.touchscreen"
+20-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-60
+21        android:required="false" />
+21-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:61-85
+22    <uses-feature
+22-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-99
+23        android:name="android.hardware.touchscreen.multitouch"
+23-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-71
+24        android:required="false" />
+24-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:72-96
+25    <uses-feature
+25-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-108
+26        android:name="android.hardware.touchscreen.multitouch.distinct"
+26-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-80
+27        android:required="false" />
+27-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:81-105
+28
+29    <application android:extractNativeLibs="true" >
+29-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-25:17
+29-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+30        <meta-data
+30-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-69
+31            android:name="unity.splash-mode"
+31-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-48
+32            android:value="0" />
+32-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:49-66
+33        <meta-data
+33-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-74
+34            android:name="unity.splash-enable"
+34-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-50
+35            android:value="True" />
+35-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:51-71
+36        <meta-data
+36-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-78
+37            android:name="unity.launch-fullscreen"
+37-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-54
+38            android:value="True" />
+38-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+39        <meta-data
+39-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+40            android:name="unity.allow-resizable-window"
+40-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-59
+41            android:value="False" />
+41-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:60-81
+42        <meta-data
+42-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-81
+43            android:name="notch.config"
+43-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-43
+44            android:value="portrait|landscape" />
+44-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:44-78
+45        <meta-data
+45-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+46            android:name="unity.auto-report-fully-drawn"
+46-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+47            android:value="true" />
+47-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+48
+49        <activity
+49-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-24:16
+50            android:name="com.unity3d.player.UnityPlayerActivity"
+50-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:15-68
+51            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+51-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:180-361
+52            android:exported="true"
+52-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:433-456
+53            android:hardwareAccelerated="false"
+53-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:397-432
+54            android:launchMode="singleTask"
+54-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:148-179
+55            android:resizeableActivity="false"
+55-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:362-396
+56            android:screenOrientation="fullUser"
+56-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:111-147
+57            android:theme="@style/UnityThemeSelector" >
+57-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:69-110
+58            <intent-filter>
+58-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:7-21:23
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-69
+59-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:19-66
+60
+61                <action android:name="android.intent.action.MAIN" />
+61-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-61
+61-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-58
+62            </intent-filter>
+63
+64            <meta-data
+64-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-82
+65                android:name="unityplayer.UnityActivity"
+65-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-58
+66                android:value="true" />
+66-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:59-79
+67            <meta-data
+67-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-70
+68                android:name="notch_support"
+68-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-46
+69                android:value="true" />
+69-->D:\shawarma master cutscene-5\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:47-67
+70        </activity>
+71    </application>
+72
+73</manifest>

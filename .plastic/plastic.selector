@@ -1,0 +1,4 @@
+repository "Sharwama_Tycoon@KumaLand@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\moneypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\moneypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|c:\\users\\shaah\\downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\soundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\soundtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\npcfoodandmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\npcfoodandmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\customermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customermaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\targetswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\servingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\servingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\boatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\PIckUP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PIckUP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\scripts\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F116F458-F6E0-198F-1FAF-17DE2D05879C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\shaah\\downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PIckUP.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\PIckUP.cs",
+              "RelativeDocumentMoniker": "Assets\\PIckUP.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\PIckUP.cs",
+              "RelativeToolTip": "Assets\\PIckUP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:28:48.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoneyPickup.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\MoneyPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\MoneyPickup.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\MoneyPickup.cs",
+              "RelativeToolTip": "Assets\\MoneyPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:05:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gamescene.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\gamescene.cs",
+              "RelativeDocumentMoniker": "Assets\\gamescene.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\gamescene.cs",
+              "RelativeToolTip": "Assets\\gamescene.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:13:45.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TargetSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\TargetSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetSwitcher.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\TargetSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetSwitcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:03:33.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServingTable.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\ServingTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ServingTable.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\ServingTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ServingTable.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:48:04.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerManeger.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\CustomerManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerManeger.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\CustomerManeger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerManeger.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:21:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoatController.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\BoatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoatController.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\BoatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoatController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:43:05.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\FoodSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\FoodSpawner.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\FoodSpawner.cs",
+              "RelativeToolTip": "Assets\\FoodSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:28:16.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCController.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\NPCController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCController.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\NPCController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:37:56.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPCFoodAndMoney.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\NPCFoodAndMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\NPCFoodAndMoney.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\NPCFoodAndMoney.cs",
+              "RelativeToolTip": "Assets\\NPCFoodAndMoney.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:11:51.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\SoundTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\SoundTrigger.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\SoundTrigger.cs",
+              "RelativeToolTip": "Assets\\SoundTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:11:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:57:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\ChefController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChefController.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\Scripts\\ChefController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChefController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:41:35.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemPickUp.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\ItemPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickUp.cs",
+              "ToolTip": "C:\\Users\\shaah\\Downloads\\shawarma master cutscene 2\\shawarma master cutscene\\Assets\\ItemPickUp.cs",
+              "RelativeToolTip": "Assets\\ItemPickUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:22:26.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

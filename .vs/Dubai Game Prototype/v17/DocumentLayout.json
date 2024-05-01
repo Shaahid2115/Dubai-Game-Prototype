@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaah\\Dubai Game Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|c:\\users\\shaah\\dubai game prototype\\assets\\moneycollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|solutionrelative:assets\\moneycollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|c:\\users\\shaah\\dubai game prototype\\assets\\thirdpersoncontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdpersoncontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|C:\\Users\\shaah\\Dubai Game Prototype\\assets\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6C47DA-8EB0-A774-2C29-B0DAB928657A}|Assembly-CSharp.csproj|solutionrelative:assets\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoneyCollect.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\MoneyCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\MoneyCollect.cs",
+              "ToolTip": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\MoneyCollect.cs",
+              "RelativeToolTip": "Assets\\MoneyCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:36:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThirdPersonControler.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\ThirdPersonControler.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdPersonControler.cs",
+              "ToolTip": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\ThirdPersonControler.cs",
+              "RelativeToolTip": "Assets\\ThirdPersonControler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:53:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FPS.cs",
+              "DocumentMoniker": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\FPS.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS.cs",
+              "ToolTip": "C:\\Users\\shaah\\Dubai Game Prototype\\Assets\\FPS.cs",
+              "RelativeToolTip": "Assets\\FPS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:43:46.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
